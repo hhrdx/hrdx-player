@@ -1,30 +1,29 @@
-```markdown
+markdown
 <div align="center">
-  <img src="https://github.com/hhrdx/hrdx-player/blob/main/app-icon.png?raw=true" width="120" alt="HRDX Player Logo"/>
-  <h1>HRDX Player</h1>
+  <h1>HRDX Player 🎬</h1>
   <p><b>Watch your favorites, everywhere.</b></p>
-  
-  [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/hhrdx/hrdx-player/releases/latest)
-  [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/hhrdx)
+
+  [![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/hhrdx/hrdx-player/releases/latest)
+  [![Telegram](https://img.shields.io/badge/Telegram-Channel-0088cc?style=for-the-badge&logo=telegram)](https://t.me/hhrdx)
 </div>
 
 ---
 
-## 📱 About HRDX Player
-**HRDX Player** is a fast, lightweight, and beautifully designed media player built for Android. It's designed to be simple, ad-free, and provide a seamless experience.
+### 📱 About
+**HRDX Player** is a modern, fast, and beautifully designed media player built for Android. Inspired by the simplicity of Netflix, it offers a seamless, ad-free experience.
 
-## ✨ Key Features
-*   **Clean UI:** Inspired by Netflix, but simpler.
-*   **Smart Auto-Play:** Automatically selects the best video quality based on your internet speed.
-*   **Netflix-Style Subtitles:** Customizable subtitles with a simple UI.
-*   **Profiles & Security:** Multiple profiles with PIN lock support, synced securely with Supabase.
-*   **Auto-Updates (OTA):** Get the latest version directly inside the app.
-*   **Zero Setup:** Addons and subtitles are pre-configured automatically.
+### ✨ Key Features
+- 🎨 **Clean UI:** Inspired by Netflix, but simpler and faster.
+- ⚡ **Smart Auto-Play:** Automatically selects the best video quality based on your internet speed.
+- 💬 **Netflix-Style Subtitles:** Customizable subtitles with a simple UI.
+- 🔒 **Profiles & Security:** Multiple profiles with PIN lock support, synced securely with Supabase.
+- 🔄 **Auto-Updates (OTA):** Get the latest version directly inside the app.
+- 🛠️ **Zero Setup:** Addons and subtitles are pre-configured automatically.
 
-## 🚀 Download
-To download the latest version of HRDX Player, go to the **[Releases](https://github.com/hhrdx/hrdx-player/releases/latest)** page.
+### 🚀 Download
+Get the latest version of HRDX Player from the **[Releases Page](https://github.com/hhrdx/hrdx-player/releases/latest)**.
 
-## 🛠️ Build from Source
+### 🛠️ Build from Source
 If you want to build the app yourself:
 1. Clone the repository.
 2. Open it in Android Studio.
@@ -42,6 +41,6 @@ HRDX Player does not host, provide, or distribute any copyrighted content. The a
 
 ---
 
-Made with ❤️ by Slah Hamrouni (hrdx)
-
-```
+<div align="center">
+  <i>Made with ❤️ by Slah Hamrouni (hrdx)</i>
+</div>
