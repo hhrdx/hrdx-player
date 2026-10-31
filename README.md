@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/hhrdx/hrdx-player/blob/main/app-icon.png?raw=true" width="120" alt="HRDX Player Logo" />
   <h1>HRDX Player</h1>
   <p><b>Watch your favorites, everywhere.</b></p>
 
