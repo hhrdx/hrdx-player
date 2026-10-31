@@ -1,16 +1,21 @@
 markdown
 <div align="center">
-  <h1>HRDX Player 🎬</h1>
+  <h1>HRDX Player</h1>
   <p><b>Watch your favorites, everywhere.</b></p>
 
   [![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/hhrdx/hrdx-player/releases/latest)
   [![Telegram](https://img.shields.io/badge/Telegram-Channel-0088cc?style=for-the-badge&logo=telegram)](https://t.me/hhrdx)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 </div>
 
 ---
 
-### 📱 About
-**HRDX Player** is a modern, fast, and beautifully designed media player built for Android. Inspired by the simplicity of Netflix, it offers a seamless, ad-free experience.
+A free, open-source media app for your phone, your desktop, and the TV you already own. Bring your own sources. HRDX turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.
+
+### 🚀 Get HRDX Player
+- **Android:** Download the latest APK from the **[Releases Page](https://github.com/hhrdx/hrdx-player/releases/latest)**.
+- **Android TV:** *(Coming soon)*
+- **Windows / Linux:** *(Coming soon)*
 
 ### ✨ Key Features
 - 🎨 **Clean UI:** Inspired by Netflix, but simpler and faster.
@@ -20,14 +25,8 @@ markdown
 - 🔄 **Auto-Updates (OTA):** Get the latest version directly inside the app.
 - 🛠️ **Zero Setup:** Addons and subtitles are pre-configured automatically.
 
-### 🚀 Download
-Get the latest version of HRDX Player from the **[Releases Page](https://github.com/hhrdx/hrdx-player/releases/latest)**.
-
 ### 🛠️ Build from Source
-If you want to build the app yourself:
-1. Clone the repository.
-2. Open it in Android Studio.
-3. Build the `androidApp` target.
+Android development requires Android Studio and the Android SDK.
 
 ```bash
 git clone https://github.com/hhrdx/hrdx-player.git
