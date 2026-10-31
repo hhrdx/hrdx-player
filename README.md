@@ -45,5 +45,3 @@ HRDX Player does not host, provide, or distribute any copyrighted content. The a
 Made with ❤️ by Slah Hamrouni (hrdx)
 
 ```
-
----
